@@ -1,0 +1,3 @@
+[submodule "Rrs_quality_assurance"]
+	path = Rrs_quality_assurance
+	url = git@github.com:sivertba/Rrs_quality_assurance.git
